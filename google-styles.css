@@ -1,0 +1,43 @@
+body{
+    width: 80%;
+    background-color: #dedaf4;
+    color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.subing-1, .subing-2, .subing-3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 320px;
+  }
+  
+.subing-1, .subing-2, .subing-3{
+    display: inline-block
+}
+
+hr{
+  height: 1px;
+  background-color: black;
+  border-color: black;
+}
+
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+
+h2{
+  margin-top: 50px;
+  margin: bottom 50px;
+}
+
+p{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
